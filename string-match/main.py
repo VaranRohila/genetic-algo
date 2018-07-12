@@ -1,7 +1,7 @@
 from population import *
 
 
-target = 'Why do you do this to me I am a poor soul'
+target = input('Enter a string')
 mr = 0.01
 max_pop = 200
 
